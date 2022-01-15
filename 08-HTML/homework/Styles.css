@@ -1,0 +1,29 @@
+h1 {
+  color: green;
+}
+img {
+  width: 400px;
+  display: block;
+  margin: 0 auto;
+}
+#thirdDiv {
+  height: 600px;
+  max-width: 500px;
+  background-color: rgb(49, 148, 115);
+  padding: 50px;
+  border: rgb(197, 0, 236);
+  border-width: 10px;
+  border-style: dotted;
+  margin: 0 auto;
+}
+#spanId {
+  font-size: 18px;
+  margin: 50px;
+}
+html {
+  background-image: url(https://static.wikia.nocookie.net/warframe/images/f/ff/Arcano.png/revision/latest?cb=20180306161254&path-prefix=es);
+}
+.divClass {
+  justify-content: center;
+  display: flex;
+}
